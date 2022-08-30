@@ -7,3 +7,4 @@ If you want to make it better do it but then show me.
 Well, it's time to get back to learning.
 
 
+All rights of photos go to their owners.
