@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(26, 26, 26);
+    font-family: Consolas;
+    max-width: 1920px;
+
+}
+
+/* good afternoon */
+
+.good{
+    position: relative;
+    color: white;
+    font-size: 40px;
+    top: 40px;
+    right: 40%;
+    font-weight: bold;
+    text-align: center;
+}
+ 
+/* add device text */
+
+.New-device{
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    left: 1450px;
+    font-weight: bold;
+    max-width: 300px;
+    
+    
+
+}
+
+/* mouse img */
+
+.mooos{
+    position: relative;
+    text-align: center;
+    max-width: 250px;
+    left: 880px;
+    top: 300px;
+}
+
+.mooos li{
+    display: inline-block;
+}
+
+.mooos li img{
+height: 300px;
+max-width: 300px;
+
+
+
+}
+
+.mooos li :hover{
+position: relative;
+top: -8px;
+
+}
+
+/* user icon */
+
+.user{
+    position: relative;
+    text-align: center;
+    max-width: 300px;
+    left: 1630px;
+    bottom: 390px; 
+    
+}
+
+.user li{
+    display: inline-block;
+}
+
+.user li img{
+height: 70px;
+border-radius: 1000px;
+width: 70px;
+color: rgb(26, 26, 26);
+}
+
+/* settings icon */
+
+.settings{
+    position: relative;
+    text-align: center;
+    max-width: 300px;
+    left: 1770px;
+    bottom: 487px;
+}
+
+.settings li{
+    display: inline-block;
+}
+
+.settings li img{
+height: 80px;
+border-radius: 1000px;
+width: 80px;
+}
+
+.battery{
+    position: relative;
+    left: 980px;
+    max-width: 100px;
+    top: 130px;
+}
+
